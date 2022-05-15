@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Legolas-106
-- 👀 I’m interested in data..
+- 👀 I’m interested in Compettitive Coding
 - 🌱 I’m currently learning data structure and algo
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
